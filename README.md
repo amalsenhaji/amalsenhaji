@@ -6,9 +6,9 @@
  <div size='20px'>Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<p>This is the first line.</p>
+<p></p>
 <br>
-<p>This is the second line.</p>
+<p></p>
 
 <img align="right" all="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
