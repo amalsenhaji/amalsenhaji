@@ -2,7 +2,7 @@
 ## A passionate Programmer, Developer from Morocco
 
 <div align="center">
-<img width="1000" height = "300" src="https://i.ytimg.com/vi/DQDO1D5TQ8k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgOyh_MA8=&rs=AOn4CLDfc9X1z8MK4oGY0M40yx27yxcElA" alt="cover" />
+<img width="1000" height = "300" src="https://wallpaperaccess.com/full/5298598.jpg" alt="cover" />
 </div>
 
 </p>
