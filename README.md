@@ -2,7 +2,7 @@
 ## A passionate Programmer, Developer from Morocco
 
 <div align="center">
-<img width="1000" height = "300" src="[https://pbs.twimg.com/profile_banners/974996996401565696/1521292913/1500x50](https://i.ytimg.com/vi/DQDO1D5TQ8k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgOyh_MA8=&rs=AOn4CLDfc9X1z8MK4oGY0M40yx27yxcElA)0" alt="cover" />
+<img width="1000" height = "300" src="file:///Users/amsenhaj/Desktop/gfgh.jpeg" alt="cover" />
 </div>
 
 </p>
