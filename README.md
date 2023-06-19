@@ -1,6 +1,10 @@
 # Hi 👋, I'm Amal Senhaji
 ## A passionate Programmer, Developer from Morocco
 
+<div align="center">
+<img width="1000" height = "300" src="[https://pbs.twimg.com/profile_banners/974996996401565696/1521292913/1500x50](https://i.ytimg.com/vi/DQDO1D5TQ8k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgOyh_MA8=&rs=AOn4CLDfc9X1z8MK4oGY0M40yx27yxcElA)0" alt="cover" />
+</div>
+
 </p>
  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clj25xcd5001108mgtc2cyn5f/stats?cursusId=21&coalitionId=74" alt="amsenhaj's 42 stats" /></a>
  <div size='20px'>Thank You for taking the time to view my GitHub Profile :smile: 
