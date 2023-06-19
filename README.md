@@ -4,7 +4,7 @@
 <div align="center">
 <img width="1000" height = "300" src="https://i.ytimg.com/vi/_huo7KMp2Ww/maxresdefault.jpg" alt="cover" />
 </div>
-<p></p>
+<p>
 </p>
  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clj25xcd5001108mgtc2cyn5f/stats?cursusId=21&coalitionId=74" alt="amsenhaj's 42 stats" /></a>
 
