@@ -1,6 +1,12 @@
 # Hi 👋, I'm Amal Senhaji
 ## A passionate Programmer, Developer from Morocco
 
+</p>
+ <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clj25xcd5001108mgtc2cyn5f/stats?cursusId=21&coalitionId=74" alt="amsenhaj's 42 stats" /></a>
+ <div size='20px'> Hi! My name is Amal Senhaji, Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
+
 <img align="right" all="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🌱 I’m currently learning C programming to deepen my understanding of low-level systems and gain more control over memory management. Additionally, I'm exploring Docker to containerize and deploy my applications efficiently. Furthermore, I'm delving into web development, including HTML, CSS, and JavaScript, to build interactive and user-friendly web experiences.
