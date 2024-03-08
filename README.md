@@ -7,7 +7,6 @@
 <p>
 </p>
 
-
 <p></p>
 <br>
 <p></p>
@@ -20,7 +19,7 @@
 
 - 📫 How to reach me: senhajiamal079@gmail.com
 
-- ⚡ Fun fact: As a coder, I have a knack for finding creative solutions to complex problems. My brain lights up like a well-optimized algorithm when I'm debugging code and untangling intricate puzzles. Coding is not just a skill for me; it's a passion that fuels my curiosity and drive to constantly learn and innovate. So, let's embark on this coding adventure together and create something amazing!
+- ⚡ fact: The world's first computer programmer was a woman named Ada Lovelace😎.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
