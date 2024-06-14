@@ -1,5 +1,5 @@
 # Hi 👋, I'm Amal Senhaji
-## A passionate Programmer, Developer from Morocco
+## Full Stack Developer from Morocco
 
 <div align="center">
 <img width="1000" height = "300" src="https://i.ytimg.com/vi/_huo7KMp2Ww/maxresdefault.jpg" alt="cover" />
